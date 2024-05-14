@@ -20,8 +20,6 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 
 ## Q LEARNING FUNCTION
 ```python
-#NAME : GANESH R
-#REG NO : 212222240029
 def q_learning(env, 
                gamma=1.0,
                init_alpha=0.5,
